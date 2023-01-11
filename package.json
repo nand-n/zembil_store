@@ -21,7 +21,8 @@
     "react-stripe-checkout": "^2.6.3",
     "react-toastify": "^9.0.5",
     "redux": "^4.2.0",
-    "styled-components": "^5.3.5"
+    "styled-components": "^5.3.5",
+    "uglifyes-webpack-plugin": "^0.4.3"
   },
   "scripts": {
     "start": "react-scripts start",
